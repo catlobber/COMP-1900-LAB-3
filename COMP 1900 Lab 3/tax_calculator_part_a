@@ -1,0 +1,41 @@
+1. $25,000
+(First bracket)
+10,275 * 0.1 = $1,027.5
+(Portion above $10,275) 
+25000 - 10275 = $14725
+(Second Bracket)
+14725 * 0.12 = $1,767.0
+(Total Taxed)
+1,767 + 1,027.5 = $2794.5
+
+2. $50,000
+(First Bracket)
+10,275 * 0.1 = $1,027.5
+(Portion above $10,275 and below $41,775)
+41,775-10,275 = $31500
+(Second Bracket)
+31,500 * 0.12 = $3,780
+(Portion above 41,775 but below 89,075)
+50,000 - 41775 = $8225
+(Third Bracket)
+8,225 * 0.22 = $1809.72
+(Total Taxed)
+$1,027.5 + $3,780 + $1809.72 = $6617.22
+
+3. $90,000
+(First Bracket)
+10,275 * 0.1 = $1,027.5
+(Portion above $10,275 and below $41,775)
+41,775-10,275 = $31500
+(Second Bracket)
+31,500 * 0.12 = $3,780
+(Portion between 41,775 & 89,075)
+89,075-41,775 = $47,300
+(Third Bracket)
+47,300 * 0.22 = $10,406
+(Portion above 89,000)
+90,000-89,000 = $1,000
+(Fourth Bracket)
+1,000 * 0.24 = $240
+(Total Taxed)
+$1,027.5 + $3,780 + $10,406 + $240 = $15453.5
